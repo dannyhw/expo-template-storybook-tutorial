@@ -4,7 +4,7 @@ You can use this template to create a new react native project with storybook al
 Intended for use with the official tutorial.
 
 ```
-expo init --template expo-template-storybook-simple expoTemplateTest
+expo init --template expo-template-storybook-tutorial ProjectName
 ```
 
 ## Running storybook
