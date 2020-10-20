@@ -1,1 +1,1 @@
-import "../components/Task.stories";
+import "../components/Welcome.stories";
